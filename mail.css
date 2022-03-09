@@ -1,0 +1,39 @@
+body{
+    font-family: monospace;
+    background-color: black;
+    scroll-behavior: smooth;
+}
+.navbar a img{
+    height: 140px;
+    width: 150px;
+}
+#navbarNav{
+    justify-content: center;
+}
+#navbarNav a{
+    font-size: x-large;
+    color: rgb(55, 231, 55);
+}
+#navbarNav a:hover{
+    color: red;
+}
+nav a strong{
+    margin-left: 15px;
+    color:  rgb(55, 231, 55);
+}
+h3{
+    color: white;
+    text-align: center;
+}
+tr td{
+    font-size: x-large;
+}
+.mailer .mail-cont{
+    
+    color: rgb(55, 231, 55);
+}
+.mailer .mail-cont table form{
+    align-items: center;
+    justify-content: center;
+
+}
